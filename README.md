@@ -1,4 +1,5 @@
-### Hi there 👋
+#
+<p align="center"> <a href="https://coderstats.net/github/#chengbinjin"> <img src="https://github-readme-stats.vercel.app/api?username=chengbinjin&hide_title=true&show_icons=true&theme=vue&hide=prs,contribs"width="65%"> </a> </p>
 
 <!--
 **ChengBinJin/ChengBinJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
